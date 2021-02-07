@@ -19,8 +19,8 @@ bio: My research interests include computational physics, natural language gener
 # Interests to show in About widget
 interests:
 - Computational physics
-- Natual language generation
-- machine learnning
+- Natural language generation
+- Machine learnning
 
 # Education to show in About widget
 education:
@@ -65,6 +65,6 @@ email: "runchengliu2000@gmail.com"
 highlight_name: false
 ---
 
-Runcheng Liu is a third-year undergraduate student at the Stanford University. His research interests include computational physics, natural language generation, and machine learning. He is currently a research assistant in THUNLP Group. 
+Runcheng Liu is a third-year undergraduate student at the Tsinghua University. His research interests include computational physics, natural language generation, and machine learning. He is currently a research assistant in THUNLP Group. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
