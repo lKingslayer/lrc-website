@@ -28,7 +28,7 @@ experience:
     location: Tsinghua, Beijing
     date_start: '2020-09-01'
     date_end: 'present'
-    description: 
+    description: Working on the numerical method for the electron magnetodynamics(EMHD) equations.(an Open Problem)
     #description: |2-
     #    Responsibilities include:
         
